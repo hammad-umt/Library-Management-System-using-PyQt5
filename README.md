@@ -34,6 +34,6 @@ LibraryManagementSystem
 2. Install PyQt5 by running:
    ```bash
    pip install PyQt5
-3.Ensure library_logic.py is present in the same folder.
-4.Run the application:
-  python app_gui.py
+3. Ensure library_logic.py is present in the same folder.
+4. Run the application:
+      python app_gui.py
